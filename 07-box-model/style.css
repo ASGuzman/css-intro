@@ -1,0 +1,11 @@
+*
+{
+    background-color: white;
+}
+
+h1{
+    padding: 20px;
+    border: 20px solid purple;
+    background-color: grey;
+    margin: 60px;
+}
