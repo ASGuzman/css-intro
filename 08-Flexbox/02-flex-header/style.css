@@ -1,0 +1,32 @@
+.header{
+    background-color: orange;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    font-size: 48px;
+    background: white;
+    color: tomato;
+    font-weight: bold;
+    padding: 4px 32px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    gap: 8px;
+}
+
+a {
+    font-size: 22px;
+    background: white;
+    padding: 8px;
+    text-decoration: none;
+  }
+  
